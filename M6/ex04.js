@@ -1,0 +1,1 @@
+console.log("4. **Tipos de Erros em JS** Para cada um dos seguintes erros nativos de JS, explique em qual situação eles ocorrem: - `ReferenceError` - `TypeError` - `SyntaxError`")

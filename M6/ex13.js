@@ -1,0 +1,3 @@
+//▶ global
+  //▶ externo
+    //▶ interno  (atual)
